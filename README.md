@@ -3,6 +3,32 @@ Hi there 👋
 **dialloflatno/dialloflatno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
+            _____________
+          |||||||||||||||||
+      ||||||||||||||||||||||||
+    ||||||||||||||||||||||||||||| 
+  |||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||
+||                                  ||
+||                                  ||
+||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||
+|                                    |
+|  ////  /////          ////  /////  |
+ \______________///\\\\_____________/
+ |||||||||||||||||||||||||||||||||||
+ |||||||||||||||||||||||||||||||||||
+ |                                 |
+ |________________________________ |                              
+  \ ===============================/                           
+    \========     \/      ========/
+      \_===_______________ ===__/
+       \\\\\\\\\\\\/////////////
+        |||||||||||||||||||||||
+         \\\\\\\\\\///////////
+             |||iiiiiii||| 
+ 
+
 🔭 I’m currently working on [Bolance](https://github.com/dialloflatno/bolance-app) and [CheckedIn](https://github.com/dialloflatno/Checkin)
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
